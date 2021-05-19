@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\..\..\Xamarin\curzi.lorenzo.4H.XamAzure\curzi.lorenzo.4H.XamAzure\curzi.lorenzo.4H.XamAzure\Models\Studente.cs" Link="Studente.cs" />
+    <Compile Include="..\..\curzi.lorenzo.4H.XamAzure\curzi.lorenzo.4H.XamAzure\curzi.lorenzo.4H.XamAzure\Models\Studente.cs" Link="Studente.cs" />
   </ItemGroup>
 
   <ItemGroup>
